@@ -1,0 +1,12 @@
+this is demo of git
+ 
+using 
+echo "# testing" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/tarun18tk/testing.git
+git push -u origin main
+
+to push to online repo or GitHub repo
